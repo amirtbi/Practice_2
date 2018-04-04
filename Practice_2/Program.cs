@@ -10,6 +10,7 @@ namespace Practice_2
     {
         static void Main(string[] args)
         {
+            // Git version:
             Program myProgram = new Program();
             Console.Write("Enter your name :");
             string name = Console.ReadLine();
